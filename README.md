@@ -77,3 +77,7 @@ if N>0:
 Setelah itu bisa langsung kalian run untuk dapat memasukan data yang sesuai dengan yang ada di soal seperti dibawah ini
 
 ![uby5](foto/uby5.png)
+
+# TERIMA KASIH
+
+![uby6](foto/uby6.png)
