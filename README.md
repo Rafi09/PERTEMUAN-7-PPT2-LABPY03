@@ -57,3 +57,23 @@ Setelahnya saya akan mencoba untuk mengerjakan Latihan selanjutnya yaitu Latihan
 
 ![uby4](foto/uby4.png)
 
+Untuk mengerjakan soal diatas maka kita perlu memasukan atau menginput datanya terlebih dahulu baru setelah itu bisa terlihat data mana yang terbesar denagn syntax.
+
+````
+N=int(input("silahkan masukan jumlah bilangan ="))
+if N>0:
+    i=1
+    x=int(input("masukan bilangan "+str(i)+"="))
+    max=x;total=x
+    for i in range(2,N+1):
+        x=int (input("masukan bilangan "+str(i)+"="))
+        total+=x
+        if max<x:
+            max=x
+
+    print("bilangan terbesar =",max)
+````
+
+Setelah itu bisa langsung kalian run untuk dapat memasukan data yang sesuai dengan yang ada di soal seperti dibawah ini
+
+![uby5](foto/uby5.png)
