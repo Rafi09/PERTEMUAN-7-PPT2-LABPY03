@@ -2,8 +2,9 @@
 ## NIM : 312010090
 ## KELAS : TI. 20 A.1
 
-#DAFTAR ISI 
-
+# DAFTAR ISI 
+<table border="2" cellspacing="10">
+<tr>
  <td><b>Pertemuan 7</b></td>
     <td>TUGAS 1</td>
     <td><a href="https://github.com/Rafi09/tugas7">Klik disini</td>
