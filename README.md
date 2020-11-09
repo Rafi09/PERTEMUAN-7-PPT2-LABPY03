@@ -51,3 +51,9 @@ Maka hasil yang didapat dari syntax tersebut adalah
 
 ![uby3](foto/uby3.png)
 
+# LATIHAN 2
+
+Setelahnya saya akan mencoba untuk mengerjakan Latihan selanjutnya yaitu Latihan 2.
+
+![uby4](foto/uby4.png)
+
